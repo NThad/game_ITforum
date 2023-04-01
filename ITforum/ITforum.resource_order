@@ -5,6 +5,8 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Group_Level1_Obuchenie","order":2,"path":"folders/Objects/Group_Level1_Obuchenie.yy",},
+    {"name":"Objects_MainMenu","order":3,"path":"folders/Objects/Objects_MainMenu.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -13,12 +15,22 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Group_Objects_Sprites_MainMenu","order":3,"path":"folders/Sprites/Group_Objects_Sprites_MainMenu.yy",},
+    {"name":"Group_Sprites_Level1","order":2,"path":"folders/Sprites/Group_Sprites_Level1.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< Updated upstream
     {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
     {"name":"Sprite2","order":17,"path":"sprites/Sprite2/Sprite2.yy",},
+=======
+    {"name":"Ground","order":1,"path":"objects/Ground/Ground.yy",},
+    {"name":"Sprite4_MainMenu_Exit","order":1,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
+    {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
+    {"name":"Object5","order":1,"path":"objects/Object5/Object5.yy",},
+    {"name":"Sprite2_Ground","order":1,"path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},
+>>>>>>> Stashed changes
   ],
 }
