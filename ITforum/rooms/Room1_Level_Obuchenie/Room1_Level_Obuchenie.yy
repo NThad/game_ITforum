@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Room1_Level_Obuchenie",
-  "creationCodeFile": "",
+  "creationCodeFile": "${project_dir}/rooms/Room1_Level_Obuchenie/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
