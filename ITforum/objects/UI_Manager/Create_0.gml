@@ -7,3 +7,5 @@ global.diagopen = false;
 global.diagchar = "";
 global.diagphrase = "";
 global.diagavatar = false;
+global.symvols = 0
+alarm[0] = 5
