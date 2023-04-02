@@ -1,0 +1,1 @@
+global.diagphrase = "why did he take them?...";

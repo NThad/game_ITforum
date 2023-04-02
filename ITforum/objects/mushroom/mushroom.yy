@@ -2,12 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "mushroom",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Group_Level1_Obuchenie",
-    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+    "name": "Групповые объекты Уровня 1",
+    "path": "folders/Objects/Групповые объекты Уровня 1.yy",
   },
   "parentObjectId": null,
   "persistent": false,
