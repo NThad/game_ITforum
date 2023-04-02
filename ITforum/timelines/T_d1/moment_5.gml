@@ -1,0 +1,1 @@
+global.diagphrase = "why didnt me?...";
