@@ -22,6 +22,7 @@
   ],
   "ResourceOrderSettings": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
     {"name":"Sprite2","order":17,"path":"sprites/Sprite2/Sprite2.yy",},
@@ -31,6 +32,25 @@
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
     {"name":"Object5","order":1,"path":"objects/Object5/Object5.yy",},
     {"name":"Sprite2_Ground","order":1,"path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},
+>>>>>>> Stashed changes
+=======
+    {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":17,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"UI_Manager","order":4,"path":"objects/UI_Manager/UI_Manager.yy",},
+    {"name":"Obj_GameMenu_Pause","order":5,"path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},
+    {"name":"Room1_Level_Main_Menu","order":1,"path":"rooms/Room1_Level_Main_Menu/Room1_Level_Main_Menu.yy",},
+    {"name":"Stump","order":5,"path":"objects/Stump/Stump.yy",},
+    {"name":"marijuana_1","order":3,"path":"objects/marijuana_1/marijuana_1.yy",},
+    {"name":"Barier","order":1,"path":"objects/Barier/Barier.yy",},
+    {"name":"Sprite4_MainMenu_Exit","order":2,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
+    {"name":"Setting","order":3,"path":"rooms/Setting/Setting.yy",},
+    {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
+    {"name":"mushroom","order":4,"path":"objects/mushroom/mushroom.yy",},
+    {"name":"Tree","order":6,"path":"objects/Tree/Tree.yy",},
+    {"name":"House","order":2,"path":"objects/House/House.yy",},
+    {"name":"Sprite12_Intarface_GameMenu","order":2,"path":"sprites/Sprite12_Intarface_GameMenu/Sprite12_Intarface_GameMenu.yy",},
+    {"name":"Earth_backround","order":7,"path":"sprites/Earth_backround/Earth_backround.yy",},
+    {"name":"Object12","order":6,"path":"objects/Object12/Object12.yy",},
 >>>>>>> Stashed changes
   ],
 }

@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object5",
+  "name": "mushroom",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Group_Level1_Obuchenie",
+    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,14 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-<<<<<<< Updated upstream:ITforum/objects/maxon_home/Object5.yy
-  "spriteId": {
-    "name": "Sprite7",
-    "path": "sprites/Sprite7/Sprite7.yy",
-  },
-=======
   "spriteId": null,
->>>>>>> Stashed changes:ITforum/objects/Tree/Tree.yy
   "spriteMaskId": null,
   "visible": true,
 }

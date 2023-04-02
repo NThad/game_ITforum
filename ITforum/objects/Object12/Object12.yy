@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object5",
+  "name": "Object12",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,14 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-<<<<<<< Updated upstream:ITforum/objects/maxon_home/Object5.yy
   "spriteId": {
-    "name": "Sprite7",
-    "path": "sprites/Sprite7/Sprite7.yy",
+    "name": "Sprite6",
+    "path": "sprites/Sprite6/Sprite6.yy",
   },
-=======
-  "spriteId": null,
->>>>>>> Stashed changes:ITforum/objects/Tree/Tree.yy
   "spriteMaskId": null,
   "visible": true,
 }

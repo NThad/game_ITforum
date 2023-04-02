@@ -27,7 +27,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Objects_Sprites_MainMenu","folderPath":"folders/Sprites/Group_Objects_Sprites_MainMenu.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Sprites_Level1","folderPath":"folders/Sprites/Group_Sprites_Level1.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
@@ -46,12 +45,27 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
 =======
     {"id":{"name":"Sprite3_MainMenu_StartGame","path":"sprites/Sprite3_MainMenu_StartGame/Sprite3_MainMenu_StartGame.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite1_Character","path":"sprites/Sprite1_Character/Sprite1_Character.yy",},},
     {"id":{"name":"Obj_button_StartGame","path":"objects/Obj_button_StartGame/Obj_button_StartGame.yy",},},
     {"id":{"name":"Character","path":"objects/Character/Character.yy",},},
     {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
+=======
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+    {"id":{"name":"UI_Manager","path":"objects/UI_Manager/UI_Manager.yy",},},
+    {"id":{"name":"Obj_GameMenu_Pause","path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},},
+    {"id":{"name":"Room1_Level_Main_Menu","path":"rooms/Room1_Level_Main_Menu/Room1_Level_Main_Menu.yy",},},
+    {"id":{"name":"Obj_button_StartGame","path":"objects/Obj_button_StartGame/Obj_button_StartGame.yy",},},
+    {"id":{"name":"Character","path":"objects/Character/Character.yy",},},
+    {"id":{"name":"Stump","path":"objects/Stump/Stump.yy",},},
+    {"id":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},},
+    {"id":{"name":"Barier","path":"objects/Barier/Barier.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Sprite4_MainMenu_Exit","path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},},
+    {"id":{"name":"Setting","path":"rooms/Setting/Setting.yy",},},
     {"id":{"name":"Obj_button_Exit","path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"Sprite2_Ground","path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},},
     {"id":{"name":"Room1_Level_Obuchenie","path":"rooms/Room1_Level_Obuchenie/Room1_Level_Obuchenie.yy",},},
@@ -59,6 +73,20 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+=======
+    {"id":{"name":"mushroom","path":"objects/mushroom/mushroom.yy",},},
+    {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},},
+    {"id":{"name":"House","path":"objects/House/House.yy",},},
+    {"id":{"name":"Sprite12_Intarface_GameMenu","path":"sprites/Sprite12_Intarface_GameMenu/Sprite12_Intarface_GameMenu.yy",},},
+    {"id":{"name":"Earth_backround","path":"sprites/Earth_backround/Earth_backround.yy",},},
+    {"id":{"name":"Object12","path":"objects/Object12/Object12.yy",},},
+    {"id":{"name":"Room2_Level_Obuchenie","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1_Level_Main_Menu","path":"rooms/Room1_Level_Main_Menu/Room1_Level_Main_Menu.yy",},},
+    {"roomId":{"name":"Room2_Level_Obuchenie","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},},
+    {"roomId":{"name":"Setting","path":"rooms/Setting/Setting.yy",},},
+>>>>>>> Stashed changes
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

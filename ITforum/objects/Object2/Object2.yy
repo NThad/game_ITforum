@@ -30,10 +30,14 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
+<<<<<<< Updated upstream:ITforum/objects/Object2/Object2.yy
   "spriteId": {
     "name": "Sprite2",
     "path": "sprites/Sprite2/Sprite2.yy",
   },
+=======
+  "spriteId": null,
+>>>>>>> Stashed changes:ITforum/objects/Barier/Barier.yy
   "spriteMaskId": null,
   "visible": true,
 }
