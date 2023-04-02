@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Групповые объекты Уровня 1",
-    "path": "folders/Objects/Групповые объекты Уровня 1.yy",
+    "name": "Group_Level1_Obuchenie",
+    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -35,5 +35,5 @@
     "path": "sprites/Sprite2_Barier/Sprite2_Barier.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
