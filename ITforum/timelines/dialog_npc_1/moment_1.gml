@@ -1,0 +1,1 @@
+global.diagfrase = "мой дом...";

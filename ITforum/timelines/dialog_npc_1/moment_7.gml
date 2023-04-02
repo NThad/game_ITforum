@@ -1,0 +1,1 @@
+global.diagfrase = "за что все это...";

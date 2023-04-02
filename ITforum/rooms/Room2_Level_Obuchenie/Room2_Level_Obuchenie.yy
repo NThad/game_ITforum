@@ -50,6 +50,11 @@
     {"name":"inst_5E73660B","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
     {"name":"inst_5FEFC073","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
     {"name":"inst_499DBB49","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"inst_96FC41F","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_348F2809","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+>>>>>>> Stashed changes
   ],
   "isDnd": false,
   "layers": [
@@ -100,6 +105,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5E73660B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Tree","path":"objects/Tree/Tree.yy",},"properties":[],"rotation":0.0,"scaleX":0.46666664,"scaleY":0.44,"x":608.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5FEFC073","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Tree","path":"objects/Tree/Tree.yy",},"properties":[],"rotation":0.0,"scaleX":0.46666664,"scaleY":0.44,"x":96.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_499DBB49","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Tree","path":"objects/Tree/Tree.yy",},"properties":[],"rotation":0.0,"scaleX":0.46666664,"scaleY":0.44,"x":1184.0,"y":512.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_348F2809","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"npc","path":"objects/npc/npc.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":160.0,"y":288.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":"_filter_colour_balance","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
         {"name":"g_ColourBalanceShadows","type":0,"value":"0.25",},

@@ -19,8 +19,11 @@
     {"name":"Group_Sprites_Level1","order":2,"path":"folders/Sprites/Group_Sprites_Level1.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"npc","order":8,"path":"folders/Objects/Group_Level1_Obuchenie/npc.yy",},
+    {"name":"dialog","order":6,"path":"folders/Objects/dialog.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
@@ -37,20 +40,40 @@
     {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Sprite6","order":17,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"UI_Manager","order":4,"path":"objects/UI_Manager/UI_Manager.yy",},
+=======
+    {"name":"Sprite_npc","order":3,"path":"sprites/Sprite_npc/Sprite_npc.yy",},
+    {"name":"Sprite_Grass","order":6,"path":"sprites/Sprite_Grass/Sprite_Grass.yy",},
+    {"name":"Sprite16","order":17,"path":"sprites/Sprite16/Sprite16.yy",},
+    {"name":"Sprite5_Character","order":7,"path":"sprites/Sprite5_Character/Sprite5_Character.yy",},
+    {"name":"UI_Manager","order":4,"path":"objects/UI_Manager/UI_Manager.yy",},
+    {"name":"Sprite13_MainMenu_consoleclide","order":3,"path":"sprites/Sprite13_MainMenu_consoleclide/Sprite13_MainMenu_consoleclide.yy",},
+    {"name":"Obj_clideconsole","order":2,"path":"objects/Obj_clideconsole/Obj_clideconsole.yy",},
+    {"name":"Sprite6_house","order":2,"path":"sprites/Sprite6_house/Sprite6_house.yy",},
+    {"name":"d_npc_spirit","order":1,"path":"objects/d_npc_spirit/d_npc_spirit.yy",},
+    {"name":"Sprite_Tree","order":4,"path":"sprites/Sprite_Tree/Sprite_Tree.yy",},
+>>>>>>> Stashed changes
     {"name":"Obj_GameMenu_Pause","order":5,"path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},
     {"name":"Room1_Level_Main_Menu","order":1,"path":"rooms/Room1_Level_Main_Menu/Room1_Level_Main_Menu.yy",},
     {"name":"Stump","order":5,"path":"objects/Stump/Stump.yy",},
     {"name":"marijuana_1","order":3,"path":"objects/marijuana_1/marijuana_1.yy",},
     {"name":"Barier","order":1,"path":"objects/Barier/Barier.yy",},
     {"name":"Sprite4_MainMenu_Exit","order":2,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
+<<<<<<< Updated upstream
     {"name":"Setting","order":3,"path":"rooms/Setting/Setting.yy",},
+=======
+    {"name":"sp_textbox","order":1,"path":"objects/sp_textbox/sp_textbox.yy",},
+>>>>>>> Stashed changes
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
     {"name":"mushroom","order":4,"path":"objects/mushroom/mushroom.yy",},
     {"name":"Tree","order":6,"path":"objects/Tree/Tree.yy",},
     {"name":"House","order":2,"path":"objects/House/House.yy",},
     {"name":"Sprite12_Intarface_GameMenu","order":2,"path":"sprites/Sprite12_Intarface_GameMenu/Sprite12_Intarface_GameMenu.yy",},
     {"name":"Earth_backround","order":7,"path":"sprites/Earth_backround/Earth_backround.yy",},
+<<<<<<< Updated upstream
     {"name":"Object12","order":6,"path":"objects/Object12/Object12.yy",},
+>>>>>>> Stashed changes
+=======
+    {"name":"Sprite15","order":16,"path":"sprites/Sprite15/Sprite15.yy",},
 >>>>>>> Stashed changes
   ],
 }
