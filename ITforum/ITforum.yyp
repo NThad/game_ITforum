@@ -55,6 +55,7 @@
     {"id":{"name":"Barier","path":"objects/Barier/Barier.yy",},},
     {"id":{"name":"Sprite4_MainMenu_Exit","path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},},
     {"id":{"name":"Obj_button_Exit","path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Sprite2_Barier","path":"sprites/Sprite2_Barier/Sprite2_Barier.yy",},},
     {"id":{"name":"mushroom","path":"objects/mushroom/mushroom.yy",},},
     {"id":{"name":"Sprite10_Stump","path":"sprites/Sprite10_Stump/Sprite10_Stump.yy",},},
@@ -63,6 +64,15 @@
     {"id":{"name":"Sprite12_Intarface_GameMenu","path":"sprites/Sprite12_Intarface_GameMenu/Sprite12_Intarface_GameMenu.yy",},},
     {"id":{"name":"Earth_backround","path":"sprites/Earth_backround/Earth_backround.yy",},},
     {"id":{"name":"Room2_Level_Obuchenie","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},},
+=======
+    {"id":{"name":"Sprite2_Ground","path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},},
+    {"id":{"name":"mushroom","path":"objects/mushroom/mushroom.yy",},},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
+    {"id":{"name":"Object9","path":"objects/Object9/Object9.yy",},},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
+    {"id":{"name":"Room1_Level_Obuchenie","path":"rooms/Room1_Level_Obuchenie/Room1_Level_Obuchenie.yy",},},
+>>>>>>> parent of ae8addf (background 2)
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1_Level_Main_Menu","path":"rooms/Room1_Level_Main_Menu/Room1_Level_Main_Menu.yy",},},
