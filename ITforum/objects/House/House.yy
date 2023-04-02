@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "mushroom",
+  "name": "House",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite_Mushroom",
-    "path": "sprites/Sprite_Mushroom/Sprite_Mushroom.yy",
+    "name": "Sprite6_house",
+    "path": "sprites/Sprite6_house/Sprite6_house.yy",
   },
   "spriteMaskId": null,
   "visible": true,
