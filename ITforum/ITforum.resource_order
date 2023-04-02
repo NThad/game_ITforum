@@ -33,6 +33,7 @@
     {"name":"Barier","order":1,"path":"objects/Barier/Barier.yy",},
     {"name":"Sprite4_MainMenu_Exit","order":2,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
+<<<<<<< HEAD
     {"name":"Sprite2_Barier","order":1,"path":"sprites/Sprite2_Barier/Sprite2_Barier.yy",},
     {"name":"mushroom","order":4,"path":"objects/mushroom/mushroom.yy",},
     {"name":"Sprite10_Stump","order":3,"path":"sprites/Sprite10_Stump/Sprite10_Stump.yy",},
@@ -40,5 +41,13 @@
     {"name":"House","order":2,"path":"objects/House/House.yy",},
     {"name":"Sprite12_Intarface_GameMenu","order":2,"path":"sprites/Sprite12_Intarface_GameMenu/Sprite12_Intarface_GameMenu.yy",},
     {"name":"Earth_backround","order":7,"path":"sprites/Earth_backround/Earth_backround.yy",},
+=======
+    {"name":"Sprite2_Ground","order":1,"path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},
+    {"name":"mushroom","order":5,"path":"objects/mushroom/mushroom.yy",},
+    {"name":"Sprite10","order":19,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"Object9","order":8,"path":"objects/Object9/Object9.yy",},
+    {"name":"Object5","order":2,"path":"objects/Object5/Object5.yy",},
+    {"name":"Sprite9","order":6,"path":"sprites/Sprite9/Sprite9.yy",},
+>>>>>>> parent of ae8addf (background 2)
   ],
 }
