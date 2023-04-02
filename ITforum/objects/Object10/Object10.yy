@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "mushroom",
+  "name": "Object10",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Group_Level1_Obuchenie",
-    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite_Mushroom",
-    "path": "sprites/Sprite_Mushroom/Sprite_Mushroom.yy",
+    "name": "Sprite12",
+    "path": "sprites/Sprite12/Sprite12.yy",
   },
   "spriteMaskId": null,
   "visible": true,
