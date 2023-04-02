@@ -52,7 +52,11 @@
     {"id":{"name":"Stump","path":"objects/Stump/Stump.yy",},},
     {"id":{"name":"Sprite_Mushroom","path":"sprites/Sprite_Mushroom/Sprite_Mushroom.yy",},},
     {"id":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Barier","path":"objects/Barier/Barier.yy",},},
+=======
+    {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
+>>>>>>> parent of caf6017 (Обнова 1.0)
     {"id":{"name":"Sprite4_MainMenu_Exit","path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},},
     {"id":{"name":"Obj_button_Exit","path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},},
 <<<<<<< HEAD
