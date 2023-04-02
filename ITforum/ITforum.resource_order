@@ -20,6 +20,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< HEAD
     {"name":"Sprite_Grass","order":6,"path":"sprites/Sprite_Grass/Sprite_Grass.yy",},
     {"name":"Sprite5_Character","order":7,"path":"sprites/Sprite5_Character/Sprite5_Character.yy",},
     {"name":"UI_Manager","order":4,"path":"objects/UI_Manager/UI_Manager.yy",},
@@ -32,6 +33,17 @@
     {"name":"marijuana_1","order":3,"path":"objects/marijuana_1/marijuana_1.yy",},
     {"name":"Barier","order":1,"path":"objects/Barier/Barier.yy",},
     {"name":"Sprite4_MainMenu_Exit","order":2,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
+=======
+    {"name":"Sprite7","order":17,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite6","order":2,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite11","order":20,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"Room2_Level_Main_Menu","order":1,"path":"rooms/Room2_Level_Main_Menu/Room2_Level_Main_Menu.yy",},
+    {"name":"Object8","order":7,"path":"objects/Object8/Object8.yy",},
+    {"name":"Sprite8","order":18,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"marijuana_1","order":4,"path":"objects/marijuana_1/marijuana_1.yy",},
+    {"name":"Ground","order":1,"path":"objects/Ground/Ground.yy",},
+    {"name":"Sprite4_MainMenu_Exit","order":1,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
+>>>>>>> parent of caf6017 (Обнова 1.0)
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
 <<<<<<< HEAD
     {"name":"Sprite2_Barier","order":1,"path":"sprites/Sprite2_Barier/Sprite2_Barier.yy",},
