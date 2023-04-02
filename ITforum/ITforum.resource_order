@@ -23,6 +23,8 @@
     {"name":"Sprite_Grass","order":6,"path":"sprites/Sprite_Grass/Sprite_Grass.yy",},
     {"name":"Sprite5_Character","order":7,"path":"sprites/Sprite5_Character/Sprite5_Character.yy",},
     {"name":"UI_Manager","order":4,"path":"objects/UI_Manager/UI_Manager.yy",},
+    {"name":"Sprite13_MainMenu_consoleclide","order":3,"path":"sprites/Sprite13_MainMenu_consoleclide/Sprite13_MainMenu_consoleclide.yy",},
+    {"name":"Obj_clideconsole","order":2,"path":"objects/Obj_clideconsole/Obj_clideconsole.yy",},
     {"name":"Sprite6_house","order":2,"path":"sprites/Sprite6_house/Sprite6_house.yy",},
     {"name":"Sprite_Tree","order":4,"path":"sprites/Sprite_Tree/Sprite_Tree.yy",},
     {"name":"Obj_GameMenu_Pause","order":5,"path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},

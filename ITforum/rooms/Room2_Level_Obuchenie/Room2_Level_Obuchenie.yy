@@ -50,6 +50,7 @@
     {"name":"inst_5E73660B","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
     {"name":"inst_5FEFC073","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
     {"name":"inst_499DBB49","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_96FC41F","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -83,6 +84,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6251A739","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":384.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_96FC41F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"UI_Manager","path":"objects/UI_Manager/UI_Manager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":-128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3AE9B57E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Character","path":"objects/Character/Character.yy",},"properties":[],"rotation":0.0,"scaleX":0.17098446,"scaleY":0.17714286,"x":448.0,"y":288.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4D379B0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Barier","path":"objects/Barier/Barier.yy",},"properties":[],"rotation":-30.0,"scaleX":0.5,"scaleY":5.5,"x":256.0,"y":127.999985,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F8025F6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Barier","path":"objects/Barier/Barier.yy",},"properties":[],"rotation":0.0,"scaleX":8.5,"scaleY":0.5,"x":256.0,"y":128.0,},
