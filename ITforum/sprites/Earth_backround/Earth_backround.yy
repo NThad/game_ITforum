@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Group_Level1_Obuchenie",
-    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+    "name": "Групповые объекты Уровня 1",
+    "path": "folders/Objects/Групповые объекты Уровня 1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

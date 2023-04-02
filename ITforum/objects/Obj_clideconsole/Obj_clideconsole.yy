@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects_MainMenu",
-    "path": "folders/Objects/Objects_MainMenu.yy",
+    "name": "Объекты Главного Меню",
+    "path": "folders/Objects/Объекты Главного Меню.yy",
   },
   "parentObjectId": null,
   "persistent": false,
