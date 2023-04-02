@@ -33,10 +33,10 @@
     {"name":"Sprite4_MainMenu_Exit","order":1,"path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
     {"name":"Sprite2_Ground","order":1,"path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},
+    {"name":"Sprite13","order":22,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"mushroom","order":5,"path":"objects/mushroom/mushroom.yy",},
     {"name":"Sprite10","order":19,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Object9","order":8,"path":"objects/Object9/Object9.yy",},
     {"name":"Object5","order":2,"path":"objects/Object5/Object5.yy",},
-    {"name":"Sprite9","order":6,"path":"sprites/Sprite9/Sprite9.yy",},
   ],
 }

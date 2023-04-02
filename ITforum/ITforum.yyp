@@ -56,11 +56,11 @@
     {"id":{"name":"Sprite4_MainMenu_Exit","path":"sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",},},
     {"id":{"name":"Obj_button_Exit","path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},},
     {"id":{"name":"Sprite2_Ground","path":"sprites/Sprite2_Ground/Sprite2_Ground.yy",},},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
     {"id":{"name":"mushroom","path":"objects/mushroom/mushroom.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Object9","path":"objects/Object9/Object9.yy",},},
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
-    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"Room1_Level_Obuchenie","path":"rooms/Room1_Level_Obuchenie/Room1_Level_Obuchenie.yy",},},
   ],
   "RoomOrderNodes": [
