@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Group_Sprites_Level1",
-    "path": "folders/Sprites/Group_Sprites_Level1.yy",
+    "name": "Sprite_LVL1",
+    "path": "folders/Sprites/Sprite_LVL1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

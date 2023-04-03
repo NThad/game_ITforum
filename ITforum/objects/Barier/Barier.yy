@@ -35,5 +35,5 @@
     "path": "sprites/Sprite2_Barier/Sprite2_Barier.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
