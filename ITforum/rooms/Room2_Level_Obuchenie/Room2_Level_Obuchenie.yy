@@ -55,6 +55,7 @@
     {"name":"inst_5E84CDEE","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
     {"name":"inst_14112D1C","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
     {"name":"inst_551040C0","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_54D1FAD4","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -110,6 +111,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59373286","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A8F6789","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6251A739","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_54D1FAD4","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"door","path":"objects/door/door.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":0.5,"x":800.0,"y":832.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":"_filter_colour_balance","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
         {"name":"g_ColourBalanceShadows","type":0,"value":"0.25",},
