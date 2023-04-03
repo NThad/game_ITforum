@@ -2,6 +2,7 @@
 // Вы можете записать свой код в этом редакторе
 
 key_pause = keyboard_check_pressed(vk_escape);
+
 var screen_width = display_get_gui_width();
 var screen_height = display_get_gui_height();
 
