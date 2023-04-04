@@ -21,6 +21,7 @@
     {"name":"Sptite_Main_Menu","order":1,"path":"folders/Sprites/Sptite_Main_Menu.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"level2","order":9,"path":"folders/Objects/level2.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite3_MainMenu_StartGame","order":3,"path":"sprites/Sprite3_MainMenu_StartGame/Sprite3_MainMenu_StartGame.yy",},
@@ -28,6 +29,7 @@
     {"name":"Sprite_Grass","order":6,"path":"sprites/Sprite_Grass/Sprite_Grass.yy",},
     {"name":"Sprite5_Character","order":7,"path":"sprites/Sprite5_Character/Sprite5_Character.yy",},
     {"name":"UI_Manager","order":2,"path":"objects/UI_Manager/UI_Manager.yy",},
+    {"name":"Sprite22","order":16,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite13_MainMenu_consoleclide","order":1,"path":"sprites/Sprite13_MainMenu_consoleclide/Sprite13_MainMenu_consoleclide.yy",},
     {"name":"Dialog_Window","order":2,"path":"objects/Dialog_Window/Dialog_Window.yy",},
     {"name":"Obj_clideconsole","order":2,"path":"objects/Obj_clideconsole/Obj_clideconsole.yy",},
@@ -56,9 +58,12 @@
     {"name":"sp_npc","order":8,"path":"sprites/sp_npc/sp_npc.yy",},
     {"name":"Tree","order":6,"path":"objects/Tree/Tree.yy",},
     {"name":"Ob_dialog","order":4,"path":"objects/Ob_dialog/Ob_dialog.yy",},
+    {"name":"Sprite23","order":17,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"Sprite18","order":5,"path":"sprites/Sprite18/Sprite18.yy",},
     {"name":"Obj_resume_button","order":2,"path":"objects/Obj_resume_button/Obj_resume_button.yy",},
     {"name":"House","order":2,"path":"objects/House/House.yy",},
+    {"name":"Obj_damage","order":11,"path":"objects/Obj_damage/Obj_damage.yy",},
+    {"name":"Obj_parent","order":10,"path":"objects/Obj_parent/Obj_parent.yy",},
     {"name":"Earth_backround","order":7,"path":"sprites/Earth_backround/Earth_backround.yy",},
   ],
 }
