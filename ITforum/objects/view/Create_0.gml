@@ -2,5 +2,5 @@
 // You can write your code in this editor
 if(instance_exists(Character)){
 	x = Character.x;
-	x = Character.x;
+	y = Character.y;
 }

@@ -8,3 +8,12 @@ if(keyboard_check(vk_right) || D) phy_position_x += movespeed;
 if(keyboard_check(vk_left) || A) phy_position_x -= movespeed;
 if(keyboard_check(vk_up) || W) phy_position_y -= movespeed;
 if(keyboard_check(vk_down) || S) phy_position_y += movespeed;
+
+if(keyboard_check(vk_shift))
+{
+	movespeed = 3.5;
+}
+else
+{
+	movespeed = 2;
+}
