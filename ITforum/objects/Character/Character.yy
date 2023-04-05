@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Group_Level1_Obuchenie",
-    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+    "name": "Level1",
+    "path": "folders/Objects/Level1.yy",
   },
   "parentObjectId": {
     "name": "Obj_parent",
@@ -39,8 +39,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite5_Character",
-    "path": "sprites/Sprite5_Character/Sprite5_Character.yy",
+    "name": "Spr_Character",
+    "path": "sprites/Spr_Character/Spr_Character.yy",
   },
   "spriteMaskId": null,
   "visible": true,

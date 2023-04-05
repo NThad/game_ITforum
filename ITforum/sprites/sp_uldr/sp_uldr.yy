@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "education",
-    "path": "folders/Objects/education.yy",
+    "name": "Education",
+    "path": "folders/Objects/Education.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

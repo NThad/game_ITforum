@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite13_MainMenu_consoleclide",
+  "name": "Spr_MainMenu_consoleclide",
   "bbox_bottom": 63,
   "bbox_left": 0,
   "bbox_right": 63,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sptite_Main_Menu",
-    "path": "folders/Sprites/Sptite_Main_Menu.yy",
+    "name": "Spr_MainMenu",
+    "path": "folders/Sprites/Spr_MainMenu.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite13_MainMenu_consoleclide",
+    "name": "Spr_MainMenu_consoleclide",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"94f79807-c810-4e48-a618-98a30c91b440","path":"sprites/Sprite13_MainMenu_consoleclide/Sprite13_MainMenu_consoleclide.yy",},},},"Disabled":false,"id":"d261a1eb-e1ef-4ef6-99c5-c073cb98515f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"94f79807-c810-4e48-a618-98a30c91b440","path":"sprites/Spr_MainMenu_consoleclide/Spr_MainMenu_consoleclide.yy",},},},"Disabled":false,"id":"d261a1eb-e1ef-4ef6-99c5-c073cb98515f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

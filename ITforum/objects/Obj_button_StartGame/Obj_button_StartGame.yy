@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects_MainMenu",
-    "path": "folders/Objects/Objects_MainMenu.yy",
+    "name": "Obj_MainMenu",
+    "path": "folders/Objects/Obj_MainMenu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite3_MainMenu_StartGame",
-    "path": "sprites/Sprite3_MainMenu_StartGame/Sprite3_MainMenu_StartGame.yy",
+    "name": "Spr_MainMenu_StartGame",
+    "path": "sprites/Spr_MainMenu_StartGame/Spr_MainMenu_StartGame.yy",
   },
   "spriteMaskId": null,
   "visible": true,

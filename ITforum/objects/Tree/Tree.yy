@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Group_Level1_Obuchenie",
-    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+    "name": "Level1",
+    "path": "folders/Objects/Level1.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite_Tree",
-    "path": "sprites/Sprite_Tree/Sprite_Tree.yy",
+    "name": "Spr_Tree",
+    "path": "sprites/Spr_Tree/Spr_Tree.yy",
   },
   "spriteMaskId": null,
   "visible": true,

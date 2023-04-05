@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite3_MainMenu_StartGame",
-    "path": "sprites/Sprite3_MainMenu_StartGame/Sprite3_MainMenu_StartGame.yy",
+    "name": "Spr_MainMenu_StartGame",
+    "path": "sprites/Spr_MainMenu_StartGame/Spr_MainMenu_StartGame.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Group_Level1_Obuchenie",
-    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+    "name": "Level1",
+    "path": "folders/Objects/Level1.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite2_Barier",
-    "path": "sprites/Sprite2_Barier/Sprite2_Barier.yy",
+    "name": "Spr_Barier",
+    "path": "sprites/Spr_Barier/Spr_Barier.yy",
   },
   "spriteMaskId": null,
   "visible": false,

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Dialog",
-    "path": "folders/Objects/Dialog.yy",
+    "name": "Obj_Dialog",
+    "path": "folders/Objects/Obj_Dialog.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

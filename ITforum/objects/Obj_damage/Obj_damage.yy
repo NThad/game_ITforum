@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Obj_Settings",
+    "path": "folders/Objects/Obj_Settings.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite23",
-    "path": "sprites/Sprite23/Sprite23.yy",
+    "name": "Spr_Attack1",
+    "path": "sprites/Spr_Attack1/Spr_Attack1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "ITforum",
-    "path": "ITforum.yyp",
+    "name": "Spr_Level1",
+    "path": "folders/Sprites/Spr_Level1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

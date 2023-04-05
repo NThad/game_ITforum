@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects_MainMenu",
-    "path": "folders/Objects/Objects_MainMenu.yy",
+    "name": "Obj_MainMenu",
+    "path": "folders/Objects/Obj_MainMenu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite4_MainMenu_Exit",
-    "path": "sprites/Sprite4_MainMenu_Exit/Sprite4_MainMenu_Exit.yy",
+    "name": "Spr_MainMenu_Exit",
+    "path": "sprites/Spr_MainMenu_Exit/Spr_MainMenu_Exit.yy",
   },
   "spriteMaskId": null,
   "visible": true,

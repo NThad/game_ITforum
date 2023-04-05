@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Obj_Settings",
+    "path": "folders/Objects/Obj_Settings.yy",
   },
   "parentObjectId": null,
   "persistent": true,
