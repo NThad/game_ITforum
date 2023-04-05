@@ -1,6 +1,6 @@
 
 
-education_wasd = "to move press:"
+education_wasd = "to figt press:"
 education_uldr = "or press:"
 
 
