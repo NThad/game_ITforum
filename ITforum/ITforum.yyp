@@ -18,6 +18,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dialog","folderPath":"folders/Objects/Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"education","folderPath":"folders/Objects/education.yy",},
@@ -25,6 +26,8 @@
 >>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Level1_Obuchenie","folderPath":"folders/Objects/Group_Level1_Obuchenie.yy",},
 =======
+=======
+>>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dialog","folderPath":"folders/Objects/Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"education","folderPath":"folders/Objects/education.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Education","folderPath":"folders/Objects/Education.yy",},
@@ -36,6 +39,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_Dialog","folderPath":"folders/Objects/Obj_Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_MainMenu","folderPath":"folders/Objects/Obj_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_Settings","folderPath":"folders/Objects/Obj_Settings.yy",},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects_MainMenu","folderPath":"folders/Objects/Objects_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
@@ -47,6 +53,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Objects_Sprites_MainMenu","folderPath":"folders/Sprites/Group_Objects_Sprites_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
@@ -56,6 +63,8 @@
 =======
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Sprites/GameMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spr_Dialog","folderPath":"folders/Sprites/Spr_Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spr_GameMenu","folderPath":"folders/Sprites/Spr_GameMenu.yy",},
@@ -67,6 +76,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"группа1","folderPath":"folders/Sprites/группа1.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "IncludedFiles": [],

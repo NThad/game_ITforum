@@ -12,10 +12,14 @@
     "name": "dialog",
     "path": "folders/Objects/dialog.yy",
   },
+<<<<<<< Updated upstream:ITforum/objects/ob_dialog/ob_dialog.yy
   "parentObjectId": {
     "name": "Ob_parent",
     "path": "objects/Ob_parent/Ob_parent.yy",
   },
+=======
+  "parentObjectId": null,
+>>>>>>> Stashed changes:ITforum/objects/Obj_mob/Obj_mob.yy
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

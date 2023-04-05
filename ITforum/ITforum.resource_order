@@ -1,5 +1,6 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
@@ -120,6 +121,10 @@
     {"name":"Sprite15","order":16,"path":"sprites/Sprite15/Sprite15.yy",},
 >>>>>>> Stashed changes
   ],
+=======
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [],
+>>>>>>> Stashed changes
 =======
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [],
