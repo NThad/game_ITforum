@@ -3,3 +3,4 @@
 
 // saaaaaaaaaaaaaannnyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa вкурсе что максим опетушился????
 aaaaaamogus = 0;
+op = 1;

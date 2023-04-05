@@ -6,4 +6,4 @@ amogs = 1;
 
 
 
-//sanyaaaaaaa
+
