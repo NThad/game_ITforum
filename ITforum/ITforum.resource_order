@@ -48,7 +48,7 @@
     {"name":"Obj_GameMenu_Pause","order":1,"path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},
     {"name":"Room1_MainMenu","order":1,"path":"rooms/Room1_MainMenu/Room1_MainMenu.yy",},
     {"name":"View","order":5,"path":"objects/View/View.yy",},
-    {"name":"invisible","order":6,"path":"sprites/invisible/invisible.yy",},
+    {"name":"Invisible","order":6,"path":"sprites/Invisible/Invisible.yy",},
     {"name":"Obj_backround_1","order":3,"path":"objects/Obj_backround_1/Obj_backround_1.yy",},
     {"name":"Stump","order":5,"path":"objects/Stump/Stump.yy",},
     {"name":"sp_avatar_npc","order":1,"path":"sprites/sp_avatar_npc/sp_avatar_npc.yy",},

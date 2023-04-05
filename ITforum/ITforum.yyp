@@ -73,7 +73,7 @@
     {"id":{"name":"Room1_MainMenu","path":"rooms/Room1_MainMenu/Room1_MainMenu.yy",},},
     {"id":{"name":"Obj_button_StartGame","path":"objects/Obj_button_StartGame/Obj_button_StartGame.yy",},},
     {"id":{"name":"View","path":"objects/View/View.yy",},},
-    {"id":{"name":"invisible","path":"sprites/invisible/invisible.yy",},},
+    {"id":{"name":"Invisible","path":"sprites/Invisible/Invisible.yy",},},
     {"id":{"name":"Character","path":"objects/Character/Character.yy",},},
     {"id":{"name":"Obj_backround_1","path":"objects/Obj_backround_1/Obj_backround_1.yy",},},
     {"id":{"name":"Stump","path":"objects/Stump/Stump.yy",},},

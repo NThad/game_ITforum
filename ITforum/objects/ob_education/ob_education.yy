@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "invisible",
-    "path": "sprites/invisible/invisible.yy",
+    "name": "Invisible",
+    "path": "sprites/Invisible/Invisible.yy",
   },
   "spriteMaskId": null,
   "visible": true,
