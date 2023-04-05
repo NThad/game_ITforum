@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Attack1",
-    "path": "sprites/Spr_Attack1/Spr_Attack1.yy",
+    "name": "Sprite31",
+    "path": "sprites/Sprite31/Sprite31.yy",
   },
   "spriteMaskId": null,
   "visible": true,

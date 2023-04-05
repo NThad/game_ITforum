@@ -1,7 +1,7 @@
 
 
-education_wasd = "to figt press:"
-education_uldr = "or press:"
+education_J = "что бы ударить нажмите:"
+education_C = "или нажмите:"
 
 
 alarm[0] =500;

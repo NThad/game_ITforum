@@ -58,6 +58,7 @@
     {"name":"Earth_backround20","order":8,"path":"sprites/Earth_backround20/Earth_backround20.yy",},
     {"name":"Barier","order":1,"path":"objects/Barier/Barier.yy",},
     {"name":"Obj_SettingsGame","order":4,"path":"objects/Obj_SettingsGame/Obj_SettingsGame.yy",},
+    {"name":"Sprite31","order":14,"path":"sprites/Sprite31/Sprite31.yy",},
     {"name":"sp_uldr","order":1,"path":"sprites/sp_uldr/sp_uldr.yy",},
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
     {"name":"Sprite27","order":13,"path":"sprites/Sprite27/Sprite27.yy",},
