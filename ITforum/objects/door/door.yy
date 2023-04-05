@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj_Settings",
-    "path": "folders/Objects/Obj_Settings.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Trigger_locashion",
-    "path": "sprites/Trigger_locashion/Trigger_locashion.yy",
+    "name": "Sprite21",
+    "path": "sprites/Sprite21/Sprite21.yy",
   },
   "spriteMaskId": null,
   "visible": true,

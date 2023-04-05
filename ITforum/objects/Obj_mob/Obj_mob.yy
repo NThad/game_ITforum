@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level2",
-    "path": "folders/Objects/Level2.yy",
+    "name": "level2",
+    "path": "folders/Objects/level2.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_mob1",
-    "path": "sprites/Spr_mob1/Spr_mob1.yy",
+    "name": "Sprite22",
+    "path": "sprites/Sprite22/Sprite22.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj_MainMenu",
-    "path": "folders/Objects/Obj_MainMenu.yy",
+    "name": "Objects_MainMenu",
+    "path": "folders/Objects/Objects_MainMenu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_MainMenu_consoleclide",
-    "path": "sprites/Spr_MainMenu_consoleclide/Spr_MainMenu_consoleclide.yy",
+    "name": "Sprite13_MainMenu_consoleclide",
+    "path": "sprites/Sprite13_MainMenu_consoleclide/Sprite13_MainMenu_consoleclide.yy",
   },
   "spriteMaskId": null,
   "visible": true,

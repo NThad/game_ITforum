@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Spr_mob1",
+  "name": "Sprite22",
   "bbox_bottom": 349,
   "bbox_left": 0,
   "bbox_right": 183,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spr_Level1",
-    "path": "folders/Sprites/Spr_Level1.yy",
+    "name": "ITforum",
+    "path": "ITforum.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Spr_mob1",
+    "name": "Sprite22",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"71792dfe-0b0a-41ff-8c69-c8b8c9ccbf74","path":"sprites/Spr_mob1/Spr_mob1.yy",},},},"Disabled":false,"id":"9171cfe3-1659-4ea8-9621-2689963cb8d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"71792dfe-0b0a-41ff-8c69-c8b8c9ccbf74","path":"sprites/Sprite22/Sprite22.yy",},},},"Disabled":false,"id":"9171cfe3-1659-4ea8-9621-2689963cb8d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
