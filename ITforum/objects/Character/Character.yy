@@ -14,6 +14,10 @@
     "name": "Group_Level1_Obuchenie",
     "path": "folders/Objects/Group_Level1_Obuchenie.yy",
   },
+  "parentObjectId": {
+    "name": "Obj_parent",
+    "path": "objects/Obj_parent/Obj_parent.yy",
+  },
   "parentObjectId": null,
   "persistent": true,
   "physicsAngularDamping": 0.1,

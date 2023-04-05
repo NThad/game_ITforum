@@ -16,7 +16,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
-<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Education","folderPath":"folders/Objects/Education.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Objects/GameMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Level1","folderPath":"folders/Objects/Level1.yy",},
@@ -24,13 +23,16 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_Dialog","folderPath":"folders/Objects/Obj_Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_MainMenu","folderPath":"folders/Objects/Obj_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obj_Settings","folderPath":"folders/Objects/Obj_Settings.yy",},
-=======
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dialog","folderPath":"folders/Objects/Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Objects/GameMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Level1_Obuchenie","folderPath":"folders/Objects/Group_Level1_Obuchenie.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"level2","folderPath":"folders/Objects/level2.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects_MainMenu","folderPath":"folders/Objects/Objects_MainMenu.yy",},
->>>>>>> parent of ce2bf51 (Провёл сортировку и поменял названия обьектов)
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dialog","folderPath":"folders/Objects/Dialog.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Objects/GameMenu.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Level1_Obuchenie","folderPath":"folders/Objects/Group_Level1_Obuchenie.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"level2","folderPath":"folders/Objects/level2.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects_MainMenu","folderPath":"folders/Objects/Objects_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
@@ -39,7 +41,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
-<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spr_Dialog","folderPath":"folders/Sprites/Spr_Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spr_GameMenu","folderPath":"folders/Sprites/Spr_GameMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spr_Level1","folderPath":"folders/Sprites/Spr_Level1.yy",},
@@ -47,7 +48,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"группа1","folderPath":"folders/Sprites/группа1.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-=======
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Sprites/GameMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite_Dialog","folderPath":"folders/Sprites/Sprite_Dialog.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite_LVL1","folderPath":"folders/Sprites/Sprite_LVL1.yy",},
@@ -55,7 +55,13 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"education","folderPath":"folders/Objects/education.yy",},
->>>>>>> parent of ce2bf51 (Провёл сортировку и поменял названия обьектов)
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Sprites/GameMenu.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite_Dialog","folderPath":"folders/Sprites/Sprite_Dialog.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite_LVL1","folderPath":"folders/Sprites/Sprite_LVL1.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sptite_Main_Menu","folderPath":"folders/Sprites/Sptite_Main_Menu.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"education","folderPath":"folders/Objects/education.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
