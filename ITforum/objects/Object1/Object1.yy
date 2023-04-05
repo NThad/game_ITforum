@@ -10,10 +10,16 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
+<<<<<<< Updated upstream:ITforum/objects/Object1/Object1.yy
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
 <<<<<<< Updated upstream:ITforum/objects/Object1/Object1.yy
+=======
+    "name": "Group_Level1_Obuchenie",
+    "path": "folders/Objects/Group_Level1_Obuchenie.yy",
+  },
+>>>>>>> Stashed changes:ITforum/objects/Character/Character.yy
   "parentObjectId": null,
   "persistent": false,
 =======

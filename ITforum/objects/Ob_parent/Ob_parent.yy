@@ -11,8 +11,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
+<<<<<<< Updated upstream:ITforum/objects/Ob_parent/Ob_parent.yy
     "name": "Obj_Settings",
     "path": "folders/Objects/Obj_Settings.yy",
+=======
+    "name": "level2",
+    "path": "folders/Objects/level2.yy",
+>>>>>>> Stashed changes:ITforum/objects/Obj_mob/Obj_mob.yy
   },
   "parentObjectId": null,
   "persistent": true,
