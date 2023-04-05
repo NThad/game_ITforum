@@ -16,6 +16,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+<<<<<<< Updated upstream
+=======
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dialog","folderPath":"folders/Objects/Dialog.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"education","folderPath":"folders/Objects/education.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameMenu","folderPath":"folders/Objects/GameMenu.yy",},
+>>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Level1_Obuchenie","folderPath":"folders/Objects/Group_Level1_Obuchenie.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects_MainMenu","folderPath":"folders/Objects/Objects_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
@@ -29,8 +35,11 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Group_Objects_Sprites_MainMenu","folderPath":"folders/Sprites/Group_Objects_Sprites_MainMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"npc","folderPath":"folders/Objects/Group_Level1_Obuchenie/npc.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"dialog","folderPath":"folders/Objects/dialog.yy",},
+=======
+>>>>>>> Stashed changes
   ],
   "IncludedFiles": [],
   "isEcma": false,

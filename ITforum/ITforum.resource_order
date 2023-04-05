@@ -5,8 +5,16 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+<<<<<<< Updated upstream
     {"name":"Group_Level1_Obuchenie","order":2,"path":"folders/Objects/Group_Level1_Obuchenie.yy",},
     {"name":"Objects_MainMenu","order":3,"path":"folders/Objects/Objects_MainMenu.yy",},
+=======
+    {"name":"Dialog","order":4,"path":"folders/Objects/Dialog.yy",},
+    {"name":"education","order":12,"path":"folders/Objects/education.yy",},
+    {"name":"GameMenu","order":7,"path":"folders/Objects/GameMenu.yy",},
+    {"name":"level2","order":9,"path":"folders/Objects/level2.yy",},
+    {"name":"Objects_MainMenu","order":1,"path":"folders/Objects/Objects_MainMenu.yy",},
+>>>>>>> Stashed changes
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -19,8 +27,11 @@
     {"name":"Group_Sprites_Level1","order":2,"path":"folders/Sprites/Group_Sprites_Level1.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+<<<<<<< Updated upstream
     {"name":"npc","order":8,"path":"folders/Objects/Group_Level1_Obuchenie/npc.yy",},
     {"name":"dialog","order":6,"path":"folders/Objects/dialog.yy",},
+=======
+>>>>>>> Stashed changes
   ],
   "ResourceOrderSettings": [
 <<<<<<< Updated upstream
