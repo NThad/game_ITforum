@@ -14,10 +14,7 @@
     "name": "Level1",
     "path": "folders/Objects/Level1.yy",
   },
-  "parentObjectId": {
-    "name": "Obj_parent",
-    "path": "objects/Obj_parent/Obj_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": true,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
