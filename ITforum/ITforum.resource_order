@@ -37,6 +37,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
     {"name":"Sprite2","order":17,"path":"sprites/Sprite2/Sprite2.yy",},
@@ -73,6 +74,37 @@
     {"name":"Setting","order":3,"path":"rooms/Setting/Setting.yy",},
 =======
     {"name":"sp_textbox","order":1,"path":"objects/sp_textbox/sp_textbox.yy",},
+>>>>>>> Stashed changes
+=======
+    {"name":"Spr_MainMenu_StartGame","order":3,"path":"sprites/Spr_MainMenu_StartGame/Spr_MainMenu_StartGame.yy",},
+    {"name":"Trigger_locashion","order":9,"path":"sprites/Trigger_locashion/Trigger_locashion.yy",},
+    {"name":"Spr_Grass","order":6,"path":"sprites/Spr_Grass/Spr_Grass.yy",},
+    {"name":"Spr_Character","order":7,"path":"sprites/Spr_Character/Spr_Character.yy",},
+    {"name":"UI_Manager","order":3,"path":"objects/UI_Manager/UI_Manager.yy",},
+    {"name":"Spr_mob1","order":10,"path":"sprites/Spr_mob1/Spr_mob1.yy",},
+    {"name":"Spr_MainMenu_consoleclide","order":1,"path":"sprites/Spr_MainMenu_consoleclide/Spr_MainMenu_consoleclide.yy",},
+    {"name":"Dialog_Window","order":2,"path":"objects/Dialog_Window/Dialog_Window.yy",},
+    {"name":"Obj_clideconsole","order":2,"path":"objects/Obj_clideconsole/Obj_clideconsole.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Sprite17","order":3,"path":"sprites/Sprite17/Sprite17.yy",},
+    {"name":"Spr_backround_Menu1","order":2,"path":"sprites/Spr_backround_Menu1/Spr_backround_Menu1.yy",},
+    {"name":"UI_Pause","order":4,"path":"objects/UI_Pause/UI_Pause.yy",},
+    {"name":"Spr_house","order":2,"path":"sprites/Spr_house/Spr_house.yy",},
+    {"name":"Spr_Tree","order":4,"path":"sprites/Spr_Tree/Spr_Tree.yy",},
+    {"name":"Sprite26","order":12,"path":"sprites/Sprite26/Sprite26.yy",},
+    {"name":"Ob_parent","order":6,"path":"objects/Ob_parent/Ob_parent.yy",},
+    {"name":"Obj_GameMenu_Pause","order":1,"path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},
+    {"name":"Room1_MainMenu","order":1,"path":"rooms/Room1_MainMenu/Room1_MainMenu.yy",},
+    {"name":"View","order":5,"path":"objects/View/View.yy",},
+    {"name":"Obj_backround_1","order":3,"path":"objects/Obj_backround_1/Obj_backround_1.yy",},
+    {"name":"Stump","order":5,"path":"objects/Stump/Stump.yy",},
+    {"name":"sp_avatar_npc","order":1,"path":"sprites/sp_avatar_npc/sp_avatar_npc.yy",},
+    {"name":"Spr_Mushroom","order":5,"path":"sprites/Spr_Mushroom/Spr_Mushroom.yy",},
+    {"name":"marijuana_1","order":3,"path":"objects/marijuana_1/marijuana_1.yy",},
+    {"name":"ob_npc_avatar","order":1,"path":"objects/ob_npc_avatar/ob_npc_avatar.yy",},
+    {"name":"Earth_backround20","order":8,"path":"sprites/Earth_backround20/Earth_backround20.yy",},
+    {"name":"Barier","order":1,"path":"objects/Barier/Barier.yy",},
+    {"name":"sp_uldr","order":1,"path":"sprites/sp_uldr/sp_uldr.yy",},
 >>>>>>> Stashed changes
     {"name":"Obj_button_Exit","order":1,"path":"objects/Obj_button_Exit/Obj_button_Exit.yy",},
     {"name":"mushroom","order":4,"path":"objects/mushroom/mushroom.yy",},

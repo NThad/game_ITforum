@@ -12,7 +12,10 @@
     "name": "dialog",
     "path": "folders/Objects/dialog.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Ob_parent",
+    "path": "objects/Ob_parent/Ob_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

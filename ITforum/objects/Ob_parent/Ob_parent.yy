@@ -1,28 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "Ob_parent",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Object2","path":"objects/Object2/Object2.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Barier","path":"objects/Barier/Barier.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Obj_Settings",
+    "path": "folders/Objects/Obj_Settings.yy",
   },
-<<<<<<< Updated upstream:ITforum/objects/Object1/Object1.yy
   "parentObjectId": null,
-  "persistent": false,
-=======
-  "parentObjectId": {
-    "name": "Ob_parent",
-    "path": "objects/Ob_parent/Ob_parent.yy",
-  },
   "persistent": true,
->>>>>>> Stashed changes:ITforum/objects/Character/Character.yy
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
@@ -34,22 +27,15 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsShapePoints": [
-    {"x":16.0,"y":41.0,},
-    {"x":45.0,"y":41.0,},
-    {"x":45.0,"y":64.0,},
-    {"x":16.0,"y":64.0,},
+    {"x":0.0,"y":0.0,},
+    {"x":32.0,"y":0.0,},
+    {"x":32.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
   ],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-<<<<<<< Updated upstream:ITforum/objects/Object1/Object1.yy
-  "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
-  },
-=======
   "spriteId": null,
->>>>>>> Stashed changes:ITforum/objects/Character/Character.yy
   "spriteMaskId": null,
   "visible": true,
 }

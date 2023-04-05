@@ -49,6 +49,7 @@
   },
   "resources": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
@@ -59,6 +60,32 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     {"id":{"name":"Sprite1_Character","path":"sprites/Sprite1_Character/Sprite1_Character.yy",},},
+=======
+    {"id":{"name":"T_d1","path":"timelines/T_d1/T_d1.yy",},},
+    {"id":{"name":"Spr_MainMenu_StartGame","path":"sprites/Spr_MainMenu_StartGame/Spr_MainMenu_StartGame.yy",},},
+    {"id":{"name":"Trigger_locashion","path":"sprites/Trigger_locashion/Trigger_locashion.yy",},},
+    {"id":{"name":"Spr_Grass","path":"sprites/Spr_Grass/Spr_Grass.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Spr_Character","path":"sprites/Spr_Character/Spr_Character.yy",},},
+    {"id":{"name":"sp_wasd","path":"sprites/sp_wasd/sp_wasd.yy",},},
+    {"id":{"name":"UI_Manager","path":"objects/UI_Manager/UI_Manager.yy",},},
+    {"id":{"name":"Spr_mob1","path":"sprites/Spr_mob1/Spr_mob1.yy",},},
+    {"id":{"name":"Spr_MainMenu_consoleclide","path":"sprites/Spr_MainMenu_consoleclide/Spr_MainMenu_consoleclide.yy",},},
+    {"id":{"name":"Dialog_Window","path":"objects/Dialog_Window/Dialog_Window.yy",},},
+    {"id":{"name":"Obj_clideconsole","path":"objects/Obj_clideconsole/Obj_clideconsole.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
+    {"id":{"name":"Spr_backround_Menu1","path":"sprites/Spr_backround_Menu1/Spr_backround_Menu1.yy",},},
+    {"id":{"name":"UI_Pause","path":"objects/UI_Pause/UI_Pause.yy",},},
+    {"id":{"name":"Obj_mob","path":"objects/Obj_mob/Obj_mob.yy",},},
+    {"id":{"name":"Old_Spr_Character","path":"sprites/Old_Spr_Character/Old_Spr_Character.yy",},},
+    {"id":{"name":"Spr_house","path":"sprites/Spr_house/Spr_house.yy",},},
+    {"id":{"name":"Spr_Tree","path":"sprites/Spr_Tree/Spr_Tree.yy",},},
+    {"id":{"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},},
+    {"id":{"name":"Ob_parent","path":"objects/Ob_parent/Ob_parent.yy",},},
+    {"id":{"name":"Obj_GameMenu_Pause","path":"objects/Obj_GameMenu_Pause/Obj_GameMenu_Pause.yy",},},
+    {"id":{"name":"Room1_MainMenu","path":"rooms/Room1_MainMenu/Room1_MainMenu.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Obj_button_StartGame","path":"objects/Obj_button_StartGame/Obj_button_StartGame.yy",},},
     {"id":{"name":"Character","path":"objects/Character/Character.yy",},},
     {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
