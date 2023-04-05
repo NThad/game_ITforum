@@ -69,7 +69,6 @@
     {"name":"Obj_resume_button","order":2,"path":"objects/Obj_resume_button/Obj_resume_button.yy",},
     {"name":"House","order":2,"path":"objects/House/House.yy",},
     {"name":"Obj_damage","order":1,"path":"objects/Obj_damage/Obj_damage.yy",},
-    {"name":"Obj_parent","order":2,"path":"objects/Obj_parent/Obj_parent.yy",},
     {"name":"Earth_backround","order":7,"path":"sprites/Earth_backround/Earth_backround.yy",},
   ],
 }

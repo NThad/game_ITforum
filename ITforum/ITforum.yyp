@@ -101,7 +101,6 @@
     {"id":{"name":"House","path":"objects/House/House.yy",},},
     {"id":{"name":"Sprite12_Intarface_GameMenu","path":"sprites/Sprite12_Intarface_GameMenu/Sprite12_Intarface_GameMenu.yy",},},
     {"id":{"name":"Obj_damage","path":"objects/Obj_damage/Obj_damage.yy",},},
-    {"id":{"name":"Obj_parent","path":"objects/Obj_parent/Obj_parent.yy",},},
     {"id":{"name":"Earth_backround","path":"sprites/Earth_backround/Earth_backround.yy",},},
     {"id":{"name":"Room2_Level_Obuchenie","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},},
   ],
