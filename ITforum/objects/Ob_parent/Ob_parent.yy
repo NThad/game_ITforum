@@ -25,13 +25,18 @@
 >>>>>>> Stashed changes:ITforum/objects/Character/Character.yy
   },
   "parentObjectId": null,
+<<<<<<< Updated upstream:ITforum/objects/Ob_parent/Ob_parent.yy
   "persistent": true,
   "physicsAngularDamping": 0.1,
+=======
+  "persistent": false,
+  "physicsAngularDamping": 0.0,
+>>>>>>> Stashed changes:ITforum/objects/Obj_damage/Obj_damage.yy
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
   "physicsGroup": 1,
   "physicsKinematic": false,
-  "physicsLinearDamping": 0.1,
+  "physicsLinearDamping": 0.0,
   "physicsObject": true,
   "physicsRestitution": 0.1,
   "physicsSensor": false,

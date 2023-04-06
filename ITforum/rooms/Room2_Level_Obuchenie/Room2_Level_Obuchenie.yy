@@ -53,7 +53,23 @@
 <<<<<<< Updated upstream
 =======
     {"name":"inst_96FC41F","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+<<<<<<< Updated upstream
     {"name":"inst_348F2809","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+>>>>>>> Stashed changes
+=======
+    {"name":"inst_132604B","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_43FFF6BA","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_5E73660B","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_29975640","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_19C1AEC6","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_1F2517FB","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_4D141D93","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_40ED49F9","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_14112D1C","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_54D1FAD4","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_3E052B45","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_3074A8B0","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
+    {"name":"inst_187F829A","path":"rooms/Room2_Level_Obuchenie/Room2_Level_Obuchenie.yy",},
 >>>>>>> Stashed changes
   ],
   "isDnd": false,
@@ -85,7 +101,14 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B5E7C4E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":-1.1333333,"scaleY":1.0,"x":896.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59373286","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A8F6789","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":448.0,},
+<<<<<<< Updated upstream
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6251A739","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":384.0,},
+=======
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6251A739","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"marijuana_1","path":"objects/marijuana_1/marijuana_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_54D1FAD4","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"door","path":"objects/door/door.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":0.5,"x":800.0,"y":832.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3074A8B0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ob_education","path":"objects/ob_education/ob_education.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":288.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_187F829A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_mob","path":"objects/Obj_mob/Obj_mob.yy",},"properties":[],"rotation":0.0,"scaleX":0.17098446,"scaleY":0.17714286,"x":736.0,"y":288.0,},
+>>>>>>> Stashed changes
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3AE9B57E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Character","path":"objects/Character/Character.yy",},"properties":[],"rotation":0.0,"scaleX":0.17098446,"scaleY":0.17714286,"x":448.0,"y":288.0,},
