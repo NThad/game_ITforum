@@ -3,7 +3,11 @@
 event_inherited();
 hp = 7;
 
-movespeed = 2;
+move_speed = 3;
+grv = 0.2;
+v_speed = 0;
+h_speed = 0;
+attack = 0;
 
 
 //текстура персонажа выше остальных текстур
