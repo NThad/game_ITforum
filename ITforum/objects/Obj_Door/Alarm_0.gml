@@ -6,7 +6,11 @@ if global.dark < 1
 	alarm[0] = 1;
 }
 else
-{
-	room_goto(newRoom)
-	alarm[1] = 1;
+{	with Character{ 
+		room_goto(global.newRoom)
+		x = global.newX
+		y = global.newY
+		
+	}
+	alarm[1] = 5;
 }

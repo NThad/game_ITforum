@@ -8,6 +8,7 @@ function room_goto_dark(r)
 		{
 			alarm[0] = 1;
 			newRoom = r;
+			
 		}
 	}
 }

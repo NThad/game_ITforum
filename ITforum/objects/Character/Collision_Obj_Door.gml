@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (room_exists(other.newRoom))
+if (room_exists(global.newRoom))
 {
-	room_goto_dark(other.newRoom);
-	x = other.newX;
-	y= other.newY;
+	room_goto_dark(global.newRoom);
+	x = global.newX;
+	y= global.newY;
 }

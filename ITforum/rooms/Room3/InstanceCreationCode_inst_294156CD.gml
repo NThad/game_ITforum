@@ -1,3 +1,3 @@
-newRoom = Room2_Level_Obuchenie;
-newX = 832;
-newY =736;
+global.newRoom = Room2_Level_Obuchenie;
+global.newX = 832;
+global.newY =736;
