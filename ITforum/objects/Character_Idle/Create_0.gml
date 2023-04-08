@@ -4,8 +4,6 @@ event_inherited();
 hp = 7;
 
 //текстура персонажа выше остальных текстур
-depth =-10;
-
 game_paused = false;
 move_speed = 2;
 grv = 0.2;

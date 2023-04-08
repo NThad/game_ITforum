@@ -36,7 +36,7 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "Spr_Character",
     "path": "sprites/Spr_Character/Spr_Character.yy",

@@ -6,13 +6,10 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "GameMenu",
-    "path": "folders/Objects/GameMenu.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/GameMenu/Buttons.yy",
   },
-  "parentObjectId": {
-    "name": "Obj_button_StartGame",
-    "path": "objects/Obj_button_StartGame/Obj_button_StartGame.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
