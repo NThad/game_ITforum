@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_clideconsole",
-  "eventList": [],
+  "name": "Obj_MainMenu_Settings",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_MainMenu_consoleclide",
-    "path": "sprites/Spr_MainMenu_consoleclide/Spr_MainMenu_consoleclide.yy",
+    "name": "Spr_MainManu_Settings",
+    "path": "sprites/Spr_MainManu_Settings/Spr_MainManu_Settings.yy",
   },
   "spriteMaskId": null,
   "visible": true,
