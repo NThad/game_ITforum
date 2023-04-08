@@ -1,1 +1,1 @@
-global.diagphrase = "my girls...";
+global.diagphrase = "мои девочки...";

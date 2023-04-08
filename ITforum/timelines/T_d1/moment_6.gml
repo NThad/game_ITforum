@@ -1,1 +1,1 @@
-global.diagphrase = "it's my fault...";
+global.diagphrase = "это моя вина...";

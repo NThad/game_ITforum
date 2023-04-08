@@ -1,3 +1,3 @@
-global.diagchar = "inhabitant";
+global.diagchar = "Руфус";
 global.diagavatar = sp_avatar_npc;
-global.diagphrase = "o my god...";
+global.diagphrase = "о боже мой...";
