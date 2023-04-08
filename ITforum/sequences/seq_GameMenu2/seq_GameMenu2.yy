@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSequence",
   "resourceVersion": "1.4",
-  "name": "seq_GameMenu",
+  "name": "seq_GameMenu2",
   "autoRecord": true,
   "backdropHeight": 1080,
   "backdropImageOpacity": 0.5,
