@@ -5,4 +5,3 @@ event_inherited();
 speed_mob = 0.5;
 detected =false;
 
-stop_attack = false

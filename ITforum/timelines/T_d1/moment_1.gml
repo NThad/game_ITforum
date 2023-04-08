@@ -1,1 +1,1 @@
-global.diagphrase = "мой дом...";
+global.diagphrase = "my house...";

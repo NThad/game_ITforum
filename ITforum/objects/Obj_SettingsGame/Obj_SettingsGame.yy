@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_MainMenu_Settings",
+    "path": "sprites/Spr_MainMenu_Settings/Spr_MainMenu_Settings.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

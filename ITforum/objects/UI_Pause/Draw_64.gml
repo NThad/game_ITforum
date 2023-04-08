@@ -8,14 +8,12 @@ var screen_height = display_get_gui_height();
 
 if(game_paused)
 {
-	draw_sprite(pause_screenshot, 0,0,0);
-	draw_set_halign(fa_center);
-	draw_set_valign(fa_middle);
-	draw_text(screen_width / 2, screen_height / 2, "Obj_GameMenu_Pause");
-	draw_set_halign(fa_left);
-	draw_set_valign(fa_top);
-	
-	
+	draw_sprite(pause_screenshot, 0,0,0);	
+	//draw_set_halign(fa_center);
+	//draw_set_valign(fa_middle);
+	//draw_text(screen_width / 2, screen_height / 2, "Obj_GameMenu_Pause");
+	//draw_set_halign(fa_left);
+	//draw_set_valign(fa_top);
 	surface_set_target(application_surface);
 	if (surface_exists(pauseSurf)) draw_surface(pauseSurf, 0,0);
 	else

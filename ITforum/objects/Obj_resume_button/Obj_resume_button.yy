@@ -9,10 +9,7 @@
     "name": "GameMenu",
     "path": "folders/Objects/GameMenu.yy",
   },
-  "parentObjectId": {
-    "name": "Obj_button_StartGame",
-    "path": "objects/Obj_button_StartGame/Obj_button_StartGame.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_MainMenu_StartGame",
-    "path": "sprites/Spr_MainMenu_StartGame/Spr_MainMenu_StartGame.yy",
+    "name": "Spr_MainMenu_StartGame1",
+    "path": "sprites/Spr_MainMenu_StartGame1/Spr_MainMenu_StartGame1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

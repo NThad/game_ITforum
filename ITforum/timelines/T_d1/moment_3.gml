@@ -1,1 +1,1 @@
-global.diagphrase = "почему он забрал их?";
+global.diagphrase = "why did he take them?...";

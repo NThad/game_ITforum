@@ -1,1 +1,1 @@
-global.diagphrase = "почему не меня?...";
+global.diagphrase = "why didnt me?...";

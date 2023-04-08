@@ -31,9 +31,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Barier",
-    "path": "sprites/Spr_Barier/Spr_Barier.yy",
+    "name": "Trigger_locashion",
+    "path": "sprites/Trigger_locashion/Trigger_locashion.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
