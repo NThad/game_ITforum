@@ -1,13 +1,9 @@
-/// @description Insert description here
-// You can write your code in this editor
-event_inherited();
-hp = 7;
-
-//текстура персонажа выше остальных текстур
-game_paused = false;
-move_speed = 2;
+move_speed = 3;
 grv = 0.2;
 v_speed = 0;
 h_speed = 0;
 attack = 0;
 dash = 0;
+walksp = 4;
+
+damage = 1.25;

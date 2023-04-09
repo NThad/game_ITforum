@@ -1,21 +1,15 @@
-event_inherited();
-
-
 //Проверка нажатий
 A = keyboard_check(ord("A"))
 D = keyboard_check(ord("D"))
 SPACE = keyboard_check(vk_space)
 
-
-if (D) phy_position_x +=move_speed
-if (A) phy_position_x -=move_speed
-
 //Направление движения
 //move = D - A;
 
-////Скорость
-//if(move != 0 and attack != 1) {h_speed = move * move_speed;}
-//else {h_speed = 0.5;}
+//Скорость
+if(move != 0 and attack != 1) {h_speed = move * move_speed;}
+else {h_speed = 0;}
+
 
 //if(dash = 1 and (image_index = 0 or image_index = 1)) { h_speed= 10;}
 
@@ -47,28 +41,25 @@ if (A) phy_position_x -=move_speed
 
 
 ////Анимации
-//if(D - A != 0){ image_xscale = move;}
-
+if(D - A != 0)
+{
+	image_xscale = move;
+}
 
 //if(attack = 1){
 //    sprite_index = CharacterAttack1;
 //    if(mouse_x != x){ image_xscale = sign(mouse_x - x)}
 //}
 
-//else {
-//    if(place_meeting(x, y+1, Object_ground)){
-//        if(move = 0) {sprite_index = Character_Idle;}
-//        else {sprite_index = Character_Sprint;}
-//    }
-//    else{
-//        if(v_speed > 0) {sprite_index = Character_Idle;}
-//        if(v_speed < 0) {sprite_index = Character_Idle;}
-//    }
-//}
-//if(dash = 1){ sprite_index = CharacterAttack3;}
+else {
+    if(place_meeting(x, y+1, Object_ground)){
+        if(move = 0) {sprite_index = Character;}
+        else {sprite_index = Character_Sprint;}
+    }
+    else{
+        if(v_speed > 0) {sprite_index = Character_A;}
+        if(v_speed < 0) {sprite_index = Character_A;}
+    }
+}
+if(dash = 1){ sprite_index = CharacterAttack3;}
 
-//if( J || C )
-//{
-//	var damage_obj = instance_create_depth(x-64,y-32,0,Obj_damage);
-//	damage_obj.creater = id;
-//}
