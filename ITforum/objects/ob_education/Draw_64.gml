@@ -1,0 +1,6 @@
+draw_set_font(F_main)
+draw_sprite(dialog_window,-1,585,810)
+draw_sprite(sp_wasd,-1,685+30,835)
+draw_sprite(sp_uldr,-1,900+30,835)
+draw_text(723+10,830, string_copy(education_wasd, 1, global.symvols))
+draw_text(950+30,830, string_copy(education_uldr, 1, global.symvols))
