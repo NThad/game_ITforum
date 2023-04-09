@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Education","order":12,"path":"folders/Objects/Education.yy",},
     {"name":"GameMenu","order":7,"path":"folders/Objects/GameMenu.yy",},
+    {"name":"Buttons","order":5,"path":"folders/Objects/GameMenu/Buttons.yy",},
     {"name":"Level2","order":9,"path":"folders/Objects/Level2.yy",},
     {"name":"Obj_Dialog","order":4,"path":"folders/Objects/Obj_Dialog.yy",},
     {"name":"Obj_MainMenu","order":1,"path":"folders/Objects/Obj_MainMenu.yy",},
@@ -31,7 +32,6 @@
     {"name":"Effect","order":6,"path":"folders/Sprites/Spr_MainMenu/Buttons/Effect.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Buttons","order":5,"path":"folders/Objects/GameMenu/Buttons.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_MainMenu_StartGame","order":4,"path":"sprites/Spr_MainMenu_StartGame/Spr_MainMenu_StartGame.yy",},
