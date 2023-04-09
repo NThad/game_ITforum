@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f6b54f4d-29ae-4020-b0b2-7554ca3bac5d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 3,
+  "origin": 4,
   "parent": {
     "name": "Attacks",
     "path": "folders/Sprites/Spr_Character/Attacks.yy",
@@ -59,7 +59,7 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
+    "xorigin": 64,
     "yorigin": 85,
   },
   "swatchColours": null,

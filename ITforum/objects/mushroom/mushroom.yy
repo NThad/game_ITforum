@@ -10,7 +10,7 @@
     "path": "folders/Objects/Level1.yy",
   },
   "parentObjectId": null,
-  "persistent": false,
+  "persistent": true,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
@@ -24,7 +24,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "Spr_Mushroom",
     "path": "sprites/Spr_Mushroom/Spr_Mushroom.yy",
