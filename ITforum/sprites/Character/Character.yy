@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dcff23dc-d541-47e2-93b5-19f90734925a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cd5f65d4-2450-4f35-92ce-3f9c7b06ee70",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 400,
+  "height": 171,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b9d5c5f7-d5ca-43b4-836b-4598b3be5ba8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1af7d1c9-2cbd-42fe-bf9e-daeae7c88f9e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -46,7 +46,7 @@
     ],
     "top": 0,
   },
-  "origin": 9,
+  "origin": 4,
   "parent": {
     "name": "Spr_Character",
     "path": "folders/Sprites/Spr_Character.yy",
@@ -77,13 +77,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"dcff23dc-d541-47e2-93b5-19f90734925a","path":"sprites/Character/Character.yy",},},},"Disabled":false,"id":"18916e0a-9c0b-4876-ab81-fbf519948fee","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"cd5f65d4-2450-4f35-92ce-3f9c7b06ee70","path":"sprites/Character/Character.yy",},},},"Disabled":false,"id":"93a516b6-1823-4dce-b8a7-2ae2a7adbf6d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 150,
-    "yorigin": 140,
+    "xorigin": 64,
+    "yorigin": 85,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 300,
+  "width": 128,
 }
