@@ -5,7 +5,6 @@ SPACE = keyboard_check(vk_space)
 
 //Направление движения
 move = D - A;
-
 //Скорость
 if(move != 0 and attack != 1) {h_speed = move * move_speed;}
 else {h_speed = 0;}
@@ -13,7 +12,6 @@ else {h_speed = 0;}
 if(dash = 1 and (image_index = 0 or image_index = 1)) { h_speed= 10;}
 
 v_speed += grv;
-
 
 //Столкновение со стенами
 if(place_meeting(x+h_speed, y, Object_ground)){
@@ -52,13 +50,22 @@ if(attack = 1){
 }
 
 else {
-    if(place_meeting(x, y+1, Object_ground)){
-        if(move = 0) {sprite_index = Character;}
-        else {sprite_index = Character_Sprint;}
-    }
-    else{
         if(v_speed > 0) {sprite_index = Character_A;}
         if(v_speed < 0) {sprite_index = Character_A;}
     }
 }
 if(dash = 1){ sprite_index = CharacterAttack3;}
+        if(v_speed > 0) 
+		{
+			sprite_index = Character_A;
+		}
+        if(v_speed < 0) 
+		{
+			sprite_index = Character_A;
+		}
+    }
+}
+if(dash = 1)
+{ 
+	sprite_index = CharacterAttack3;
+}
