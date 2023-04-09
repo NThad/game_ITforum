@@ -2,10 +2,13 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377
 function room_goto_dark(r)
 {
+	with Obj_Door
+	{
 		if global.dark = 0
 		{
 			alarm[0] = 1;
 			newRoom = r;
 			
 		}
+	}
 }
