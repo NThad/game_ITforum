@@ -3,9 +3,9 @@
   "resourceVersion": "1.0",
   "name": "Spr_MainMenu_Exit",
   "bbox_bottom": 570,
-  "bbox_left": 107,
+  "bbox_left": 100,
   "bbox_right": 1790,
-  "bbox_top": 476,
+  "bbox_top": 493,
   "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ae22b5f6-a768-4d1e-a7fe-f7212d85097e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"493e71b0-aaf0-40de-b9a0-902f8facd7a1",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"47f798c2-d917-4d9c-95ad-1916c614c59d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3dc275fa-d3c5-468c-b9b5-fd165710da24","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ae22b5f6-a768-4d1e-a7fe-f7212d85097e","path":"sprites/Spr_MainMenu_Exit/Spr_MainMenu_Exit.yy",},},},"Disabled":false,"id":"3121dec8-4e1b-471c-a8dd-afb62be5d105","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"493e71b0-aaf0-40de-b9a0-902f8facd7a1","path":"sprites/Spr_MainMenu_Exit/Spr_MainMenu_Exit.yy",},},},"Disabled":false,"id":"adcb8c76-3ff6-4197-8e01-8a122e38964b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

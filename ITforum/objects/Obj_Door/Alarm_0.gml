@@ -6,7 +6,7 @@ if global.dark < 1
 	alarm[0] = 1;
 }
 else
-{	with Character{ 
+{	with Character_Idle{ 
 		room_goto(global.newRoom)
 		x = global.newX
 		y = global.newY

@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_button_Exit",
+  "name": "Obj_MainMenu_Back",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj_MainMenu",
-    "path": "folders/Objects/Obj_MainMenu.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/Obj_MainMenu/Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_MainMenu_Exit",
-    "path": "sprites/Spr_MainMenu_Exit/Spr_MainMenu_Exit.yy",
+    "name": "Spr_MainMenu_Back",
+    "path": "sprites/Spr_MainMenu_Back/Spr_MainMenu_Back.yy",
   },
   "spriteMaskId": null,
   "visible": true,
