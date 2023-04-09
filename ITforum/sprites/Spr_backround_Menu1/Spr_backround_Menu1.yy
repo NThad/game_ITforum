@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Spr_backround_Menu1",
-  "bbox_bottom": 1079,
+  "bbox_bottom": 993,
   "bbox_left": 0,
   "bbox_right": 1919,
   "bbox_top": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6e843b1b-b4b8-4c75-9529-00359265857b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5ce36448-60d5-488a-9fc0-2bb7746889d6",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1080,
+  "height": 994,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7634be4d-87c3-4c8f-8632-b7d6f051da76","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3212ace1-f5ff-4d82-a4b2-ba77700f970f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6e843b1b-b4b8-4c75-9529-00359265857b","path":"sprites/Spr_backround_Menu1/Spr_backround_Menu1.yy",},},},"Disabled":false,"id":"ee1dd36d-799f-4ac3-9904-d615519f42af","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5ce36448-60d5-488a-9fc0-2bb7746889d6","path":"sprites/Spr_backround_Menu1/Spr_backround_Menu1.yy",},},},"Disabled":false,"id":"ea22d7f9-5d0b-41fd-9d49-6bf376279440","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
