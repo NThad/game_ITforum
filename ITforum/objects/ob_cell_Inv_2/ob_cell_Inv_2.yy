@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ob_cell_Inv",
+  "name": "ob_cell_Inv_2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":false,},
@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_cell",
-    "path": "sprites/sp_cell/sp_cell.yy",
+    "name": "sp_wheel2",
+    "path": "sprites/sp_wheel2/sp_wheel2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
