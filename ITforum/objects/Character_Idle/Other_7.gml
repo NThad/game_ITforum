@@ -1,8 +1,6 @@
-if(dash = 1)
+/// @description Вставьте описание здесь
+// Вы можете записать свой код в этом редакторе
+if(p_attack1 = 1)
 {
-	dash = 0;
-}
-if(attack = 1)
-{
-	attack = 0;
+p_attack1 = 0;
 }
