@@ -10,16 +10,13 @@ global.diagavatar = false;
 global.symvols = 0
 alarm[0] = 5
 
-
 //инвентарь
 
-global.arraySize = 6
-global.openinv = false
-global.takeitem = false
+global.aaraySize = 6
+global.openIv = false
 
 
-for(i = 0; i < global.arraySize; i++){
-	global.invent[i]=false
-	instance_create_depth(64*i,0,-10,ob_cell_invent).cell = i
-	
+for (i=0; i<global.aaraySize; i++){
+	global.invent[i]= false
+	instance_create_depth(32*i,0,-10,ob_cell_Inv).cell=i
 }

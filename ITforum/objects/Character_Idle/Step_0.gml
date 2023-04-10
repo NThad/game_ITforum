@@ -69,3 +69,5 @@ if(dash = 1)
 { 
 	sprite_index = CharacterAttack3;
 }
+
+

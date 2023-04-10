@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ob_heal",
+  "name": "ob_Item",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,10 +11,7 @@
     "name": "inventary",
     "path": "folders/Objects/inventary.yy",
   },
-  "parentObjectId": {
-    "name": "ob_Item",
-    "path": "objects/ob_Item/ob_Item.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,19 +23,11 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [
-    {"x":15.0,"y":13.0,},
-    {"x":49.0,"y":13.0,},
-    {"x":49.0,"y":61.0,},
-    {"x":15.0,"y":61.0,},
-  ],
+  "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sp_heal_animation",
-    "path": "sprites/sp_heal_animation/sp_heal_animation.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
