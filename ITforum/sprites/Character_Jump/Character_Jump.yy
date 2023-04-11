@@ -33,7 +33,7 @@
   "origin": 9,
   "parent": {
     "name": "MoveRight",
-    "path": "folders/Sprites/Spr_Character/MoveRight.yy",
+    "path": "folders/Sprites/inventary/Spr_Character/MoveRight.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -32,7 +32,7 @@
   "origin": 9,
   "parent": {
     "name": "Attacks",
-    "path": "folders/Sprites/Spr_Character/Attacks.yy",
+    "path": "folders/Sprites/inventary/Spr_Character/Attacks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

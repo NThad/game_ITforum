@@ -14,9 +14,13 @@ alarm[0] = 5
 
 global.aaraySize = 6
 global.openIv = false
+global.cell = [ob_cell_Inv_1,ob_cell_Inv_2,ob_cell_Inv_3,ob_cell_Inv_4,ob_cell_Inv_5,ob_cell_Inv_6]
 
 
 for (i=0; i<global.aaraySize; i++){
 	global.invent[i]= false
-	instance_create_depth(32*i,0,-10,ob_cell_Inv).cell=i
+	instance_create_depth(32*i,0,-10,global.cell[i]).cell=i
+
+	
 }
+

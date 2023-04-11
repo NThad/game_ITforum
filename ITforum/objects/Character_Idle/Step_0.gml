@@ -67,6 +67,7 @@ if(mouse_x != x)
 { 
 	image_xscale = sign(mouse_x - x)
 }
+
 }
 else
 {
