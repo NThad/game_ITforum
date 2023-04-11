@@ -1,5 +1,6 @@
-if(attack = 0)
+/// @description Вставьте описание здесь
+// Вы можете записать свой код в этом редакторе
+if p_attack1 = 0
 {
-    attack = 1;
-    image_index = 0;
+	p_attack1 = 1;
 }
