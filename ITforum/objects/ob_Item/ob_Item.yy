@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ob_Item",
+  "name": "ob_item",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "inventary",
-    "path": "folders/Objects/inventary.yy",
+    "name": "invent",
+    "path": "folders/Objects/invent.yy",
   },
   "parentObjectId": null,
   "persistent": false,
